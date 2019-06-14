@@ -1,18 +1,18 @@
 
 ## 01. CNNs based multi-modality classification for AD diagnosis (2017)
 https://sci-hub.tw/10.1109/cisp-bmei.2017.8302281
-> ### **Dataset**
->> - MRI, PET
-> ### **Training**
->> - 2 class classification (AD/CN)
->> - Extract feature with 3D ConvNet
->> - Combined feature vector of MRI and PET
->> <img src="https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/img/3D_patch_level_CNN/01_model1.PNG" width="450"/>  
->> <img src="https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/img/3D_patch_level_CNN/01_model2.PNG" width="600"/>
-> ### **Result**  
->> - Comparison of different method
->> <img src="https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/img/3D_patch_level_CNN/01_result1.PNG"/>  
->> <img src="https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/img/3D_patch_level_CNN/01_result2.PNG"/>
+### **Dataset**
+> - MRI, PET
+### **Training**
+> - 2 class classification (AD/CN)
+> - Extract feature with 3D ConvNet
+> - Combined feature vector of MRI and PET
+> <img src="https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/img/3D_patch_level_CNN/01_model1.PNG" width="450"/>  
+> <img src="https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/img/3D_patch_level_CNN/01_model2.PNG" width="600"/>
+### **Result**  
+> - Comparison of different method
+> <img src="https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/img/3D_patch_level_CNN/01_result1.PNG"/>  
+> <img src="https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/img/3D_patch_level_CNN/01_result2.PNG"/>
 ---
 #
 #
