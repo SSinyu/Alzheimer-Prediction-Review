@@ -14,8 +14,8 @@
 
 |paper|AD vs CN|sMCI vs pMCI|MCI vs CN|AD vs MCI|Multi-class|Approach|Data Leakage|
 |:----|:----:|:---:|:----:|:----:|:---:|:----|:----|
-|Aderghal et al., 2017b|0.84|-|0.65|0.67|-|ROI-based|Non detected|
-|Aderghal et al., 2018|0.90|-|0.73|0.83|-|ROI-based|Non detected|
+|[Aderghal et al., 2017b](https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/ROI_based_CNN.md#02-classification-of-smri-for-ad-diagnosis-with-convolutional-neuronal-networks-a-pilot-2d-%CF%B5-study-on-adni-2017)|0.84|-|0.65|0.67|-|ROI-based|Non detected|
+|[Aderghal et al., 2018](https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/ROI_based_CNN.md#03-classification-of-alzheimer-disease-on-imaging-modalities-with-deep-cnns-using-cross-modal-transfer-learning-2018)|0.90|-|0.73|0.83|-|ROI-based|Non detected|
 |Bäckström et al., 2018|0.90|-|-|-|-|3D subject-level|Non detected|
 |Cheng et al., 2017|0.87|-|-|-|-|3D patch-level|Non detected|
 |Cheng and Liu, 2017|0.85|-|-|-|-|3D subject-level|Non detected|
@@ -35,7 +35,7 @@
 
 |paper|AD vs CN|sMCI vs pMCI|MCI vs CN|AD vs MCI|Multi-class|Approach|Data Leakage|
 |:----|:----:|:---:|:----:|:----:|:---:|:----|:----|
-|Aderghal et al., 2017a|0.91|-|0.66|0.70|-|ROI-based|Unclear|
+|[Aderghal et al., 2017a](https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/ROI_based_CNN.md#01-fuseme-classification-of-smri-images-by-fusion-of-deep-cnns-in-2d-%CF%B5-projections-2017)|0.91|-|0.66|0.70|-|ROI-based|Unclear|
 |Basaia et al., 2019|0.99|0.75|-|-|-|3D subject-level|Unclear|
 |Hon and Khan, 2017|0.96|-|-|-|-|2D slice-level|Unclear|
 |Hosseini Asl et al., 2018|0.99|-|0.94|1.00|AD vs MCI vs CN<br/>0.95|3D subject-level|Unclear|
@@ -44,7 +44,7 @@
 |Manhua Liu et al., 2018|0.85|0.74|-|-|-|3D patch-level|Unclear|
 |Taqi et al., 2018|1.00|-|-|-|-|2D slice-level|Unclear|
 |Vu et al., 2017|0.85|-|-|-|-|3D subject-level|Unclear|
-|S.-H. Wang et al., 2018|0.98|-|-|-|2D slice-level|Unclear|
+|S.-H. Wang et al., 2018|0.98|-|-|-|-|2D slice-level|Unclear|
 |Bäckström et al., 2018|0.99|-|-|-|-|3D subject-level|clear|
 |Farooq et al., 2017|-|-|-|-|AD vs LMCI vs EMCI vs CN<br/>0.99|2D slice-level|clear|
 |Gunawardena et al., 2017|-|-|-|-|AD vs MCI vs CN<br/>0.96|3D subject-level|clear|
