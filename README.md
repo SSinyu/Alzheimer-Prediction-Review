@@ -9,7 +9,6 @@
 <br/>  
 
 ## Result Table
-<br/>
 
 ### Data Leakage (Non Detected) Table  
 
