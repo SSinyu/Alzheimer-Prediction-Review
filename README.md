@@ -2,6 +2,8 @@
 
 ---
 #
+#
+#
 ## 01. Deep Structural and Clinical Feature Learning for Semi-Supervised Multiclass Prediction of Alzheimer’s Disease (2018)  
 https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8623946\
 ### **Dataset**  
@@ -17,6 +19,8 @@ https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8623946\
 > <img src="https://github.com/SSinyu/p/blob/master/img/01_result2.PNG" width="550"/>  
 
 ---
+#
+#
 #
 ## 02. Deep learning reveals Alzheimer's disease onset in MCI subjects: Results from an international challenge (2018)  
 https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S0165027017304296\
@@ -34,6 +38,8 @@ https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S0165027017
 > <img src="https://github.com/SSinyu/p/blob/master/img/02_result2.PNG" width="550"/>  
 
 ---
+#
+#
 #
 ## 03. Disease Prediction using Graph Convolutional Networks: Application to Autism Spectrum Disorder and Alzheimer’s Disease (2018)  
 https://arxiv.org/pdf/1806.01738.pdf\
@@ -55,6 +61,8 @@ https://arxiv.org/pdf/1806.01738.pdf\
 
 ---
 #
+#
+#
 ## 04. A parameter-efficient deep learning approach to predict conversion from mild cognitive impairment to Alzheimer's disease (2019)  
 https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S105381191930031X
 ### **INPUT**  
@@ -69,6 +77,8 @@ https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S1053811919
 
 ---
 #
+#
+#
 ## 05. A deep learning model for early prediction of Alzheimer's disease dementia based on hippocampal MRI (2019)  
 https://arxiv.org/ftp/arxiv/papers/1904/1904.07282.pdf
 ### **INPUT**  
@@ -80,6 +90,8 @@ https://arxiv.org/ftp/arxiv/papers/1904/1904.07282.pdf
 > ![05_result](https://github.com/SSinyu/p/blob/master/img/05_result.PNG)  
 
 ---
+#
+#
 #
 ## 06. Hippocampus Analysis by Combination of 3D DenseNet and Shapes for Alzheimer’s Disease Diagnosis (2018)  
 > https://sci-hub.tw/10.1109/jbhi.2018.2882392
@@ -101,6 +113,8 @@ https://arxiv.org/ftp/arxiv/papers/1904/1904.07282.pdf
 > ![06_result3](https://github.com/SSinyu/p/blob/master/img/06_result3.PNG)  
 
 ---
+#
+#
 #
 ## 07. Alzheimer's disease diagnosis based on multiple cluster dense convolutional networks (2018)  
 https://sci-hub.tw/https://www.sciencedirect.com/science/article/abs/pii/S089561111830199X
@@ -127,6 +141,8 @@ Tabular data application
 
 ---
 #
+#
+#
 ## 01. SuperTML: Two-Dimensional Word Embedding for the Precognition on Structured Tabular Data (2019)
 https://arxiv.org/pdf/1903.06246v3.pdf\
 ### **TRAINING**
@@ -139,6 +155,8 @@ https://arxiv.org/pdf/1903.06246v3.pdf\
 > ![_01_result2](https://github.com/SSinyu/p/blob/master/img/_01_result2.PNG)
 
 ---
+#
+#
 #
 ## 02. Regularization Learning Networks: Deep Learning for Tabular Datasets (2018)
 https://arxiv.org/pdf/1805.06440v3.pdf
