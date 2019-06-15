@@ -1,5 +1,5 @@
-## Classification of MR brain images by combination of multi-CNNs for AD diagnosis. (2017)
-> [`paper`](https://sci-hub.tw/10.1117/12.2281808)
+## Classification of MR brain images by combination of multi-CNNs for AD diagnosis (2017)
+> [`paper`](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10420/1042042/Classification-of-MR-brain-images-by-combination-of-multi-CNNs/10.1117/12.2281808.short?SSO=1)
 ### **Dataset**
 > - MRI
 ### **Training**
@@ -16,7 +16,7 @@
 #
 #
 ## Multi-modality cascaded convolutional neural networks for Alzheimer’s disease diagnosis (2018)
-> [`paper`](https://sci-hub.tw/10.1007/s12021-018-9370-4)
+> [`paper`](https://link.springer.com/article/10.1007/s12021-018-9370-4)
 ### **Dataset**
 > - MRI, PET
 ### **Training**
@@ -34,7 +34,7 @@
 #
 #
 ## Alzheimer's disease diagnosis based on multiple cluster dense convolutional networks (2018)
-> [`paper`](https://sci-hub.tw/10.1016/j.compmedimag.2018.09.009)
+> [`paper`](https://www.sciencedirect.com/science/article/abs/pii/S089561111830199X)
 ### **Dataset**
 > - MRI
 ### **Training**
@@ -54,7 +54,7 @@
 #
 #
 ## Hierarchical Fully Convolutional Network for Joint Atrophy Localization and Alzheimer's Disease Diagnosis using Structural MRI (2018)
-> [`paper`](https://sci-hub.tw/10.1109/tpami.2018.2889096)
+> [`paper`](https://ieeexplore.ieee.org/document/8585141)
 ### **Dataset**
 > - MRI
 ### **Training**
@@ -79,7 +79,7 @@
 #
 #
 ## Anatomical landmark based deep feature representation for MR images in brain disease diagnosis (2018)
-> [`paper`](https://sci-hub.tw/10.1109/jbhi.2018.2791863)
+> [`paper`](https://ieeexplore.ieee.org/abstract/document/8253440)
 ### **Dataset**
 > - MRI
 ### **Training**
