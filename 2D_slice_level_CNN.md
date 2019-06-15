@@ -1,6 +1,6 @@
 
 ## A deep CNN based multi-class classification of Alzheimer's disease using MRI (2017)
-> [`paper`](https://sci-hub.tw/10.1109/ist.2017.8261460)
+> [`paper`](https://ieeexplore.ieee.org/document/8261460/)
 ### **Dataset**
 > - MRI
 ### **Training**
@@ -15,7 +15,7 @@
 #
 #
 ## Applying convolutional neural networks for pre-detection of alzheimer's disease from structural MRI data (2017)
-> [`paper`](https://sci-hub.tw/10.1109/m2vip.2017.8211486)
+> [`paper`](https://ieeexplore.ieee.org/abstract/document/8211486)
 ### **Dataset**
 > - MRI
 ### **Training**
@@ -29,7 +29,7 @@
 #
 #
 ## Towards Alzheimer's disease classification through transfer learning (2017)
-> [`paper`](https://sci-hub.tw/10.1109/bibm.2017.8217822)
+> [`paper`](https://arxiv.org/abs/1711.11117)
 ### **Dataset**
 > - MRI
 ### **Training**
@@ -42,7 +42,7 @@
 #
 #
 ## Deep Residual Nets for Improved Alzheimer's Diagnosis (2017)
-> [`paper`](https://sci-hub.tw/10.1145/3107411.3108224)
+> [`paper`](https://dl.acm.org/citation.cfm?id=3107411.3108224)
 ### **Dataset**
 > - MRI
 ### **Training**
@@ -56,7 +56,7 @@
 #
 #
 ## A novel deep learning based multi-class classification method for Alzheimer’s disease detection using brain MRI data (2017)
-> [`paper`](https://sci-hub.tw/10.1007/978-3-319-70772-3_20)
+> [`paper`](https://link.springer.com/chapter/10.1007/978-3-319-70772-3_20)
 ### **Dataset**
 > - MRI
 ### **Training**
@@ -70,7 +70,7 @@
 #
 #
 ## Automatic recognition of mild cognitive impairment from mri images using expedited convolutional neural networks (2017)
-> [`paper`](https://sci-hub.tw/10.1007/978-3-319-68600-4_43)
+> [`paper`](https://link.springer.com/chapter/10.1007/978-3-319-68600-4_43)
 ### **Dataset**
 > - MRI
 ### **Training**
@@ -90,7 +90,7 @@
 #
 #
 ## Brain MRI analysis for Alzheimer’s disease diagnosis using an ensemble system of deep convolutional neural networks (2018)
-> [`paper`](https://sci-hub.tw/10.1186/s40708-018-0080-3)
+> [`paper`](https://link.springer.com/article/10.1186/s40708-018-0080-3)
 ### **Dataset**
 > - MRI
 ### **Training**
@@ -105,7 +105,7 @@
 #
 #
 ## Fusion of deep learning models of MRI scans, Mini–Mental State Examination, and logical memory test enhances diagnosis of mild cognitive impairment (2018)
-> [`paper`](https://sci-hub.tw/10.1016/j.dadm.2018.08.013)
+> [`paper`](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6240705/)
 ### **Dataset**
 > - MRI, Mini–Mental State Examination(MMSE) result,  Wechsler Memory Scale Logical memory(LM) test result
 ### **Training**
@@ -121,7 +121,7 @@
 #
 #
 ## The impact of multi-optimizers and data augmentation on TensorFlow convolutional neural network performance (2018)
-> [`paper`](https://sci-hub.tw/10.1109/mipr.2018.00032)
+> [`paper`](https://ieeexplore.ieee.org/document/8396988/)
 ### **Dataset**
 > - MRI
 ### **Training**
@@ -138,7 +138,7 @@
 #
 #
 ## Classification of Alzheimer’s disease based on eight-layer convolutional neural network with leaky rectified linear unit and max pooling (2018)
-> [`paper`](https://sci-hub.tw/10.1007/s10916-018-0932-7)
+> [`paper`](https://link.springer.com/article/10.1007/s10916-018-0932-7)
 ### **Dataset**
 > - MRI
 ### **Training**
@@ -156,7 +156,7 @@
 #
 #
 ## Discrimination and conversion prediction of mild cognitive impairment using convolutional neural networks (2018)
-> [`paper`](https://sci-hub.tw/10.21037/qims.2018.10.17)
+> [`paper`](https://www.ncbi.nlm.nih.gov/pubmed/30598877)
 ### **Dataset**
 > - MRI
 ### **Training**
