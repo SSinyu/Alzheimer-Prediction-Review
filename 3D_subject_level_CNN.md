@@ -1,6 +1,6 @@
 
 ## CNNs based multi-modality classification for AD diagnosis (2017)  
-> [`paper`](https://sci-hub.tw/10.1109/cisp-bmei.2017.8302281)  
+> [`paper`](https://ieeexplore.ieee.org/document/8302281/)  
 ### **Dataset**
 > - MRI, PET
 ### **Training**
@@ -18,14 +18,14 @@
 #
 #
 ## Residual and plain convolutional neural networks for 3D brain MRI classification (2017)
-> [`paper`](https://sci-hub.tw/10.1109/isbi.2017.7950647)
+> [`paper`](https://arxiv.org/abs/1701.06643)
 > - -
 ---
 #
 #
 #
 ## Alzheimer's disease classification based on combination of multi-model convolutional network (2017)
-> [`paper`](https://sci-hub.tw/10.1109/ist.2017.8261566)
+> [`paper`](https://ieeexplore.ieee.org/document/8261566)
 ### **Dataset**
 > - MRI
 ### **Training**
@@ -44,7 +44,7 @@
 #
 #
 ## Multimodal learning using convolution neural network and Sparse Autoencoder (2017)
-> [`paper`](https://sci-hub.tw/10.1109/bigcomp.2017.7881683)
+> [`paper`](https://ieeexplore.ieee.org/document/7881683)
 > - -
 ---
 #
@@ -66,7 +66,7 @@
 #
 #
 ## Deep fusion pipeline for mild cognitive impairment diagnosis (2018)
-> [`paper`](https://sci-hub.tw/10.1109/isbi.2018.8363832)
+> [`paper`](https://ieeexplore.ieee.org/document/8363832)
 ### **Dataset**
 > - MRI, Neuropsychological Measures(NM)
 ### **Training**
@@ -81,34 +81,34 @@
 #
 #
 ## An efficient 3D deep convolutional network for Alzheimer's disease diagnosis using MR images (2018)
-> [`paper`](https://sci-hub.tw/10.1109/isbi.2018.8363543)
+> [`paper`](https://ieeexplore.ieee.org/document/8363543/)
 > - -
 ---
 #
 #
 #
 ## Alzheimer’s disease diagnostics by a 3D deeply supervised adaptable convolutional network (2018)
-> [`paper`](https://www.bioscience.org/2018/v23/af/4606/fulltext.php?bframe=PDF)
+> [`paper`](https://www.ncbi.nlm.nih.gov/pubmed/28930562)
 > - -
 ---
 #
 #
 #
 ## Non-white matter tissue extraction and deep convolutional neural network for Alzheimer’s disease detection (2018)
-> [`paper`](https://sci-hub.tw/10.1007/s00500-018-3421-5)
+> [`paper`](https://link.springer.com/article/10.1007/s00500-018-3421-5)
 > - -
 ---
 #
 #
 #
 ## Automated classification of Alzheimer's disease and mild cognitive impairment using a single MRI and deep neural networks (2019)
-> [`paper`](https://sci-hub.tw/10.1016/j.nicl.2018.101645)
+> [`paper`](https://www.sciencedirect.com/science/article/pii/S2213158218303930?via%3Dihub)
 > - -
 ---
 #
 #
 #
 ## Ensemble of 3D densely connected convolutional network for diagnosis of mild cognitive impairment and Alzheimer’s disease (2019)
-> [`paper`](https://sci-hub.tw/10.1016/j.neucom.2018.12.018)
+> [`paper`](https://www.sciencedirect.com/science/article/pii/S0925231218314723)
 > - -
 ---
