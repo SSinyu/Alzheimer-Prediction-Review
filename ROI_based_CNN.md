@@ -1,6 +1,6 @@
 
 ## FuseMe: Classification of sMRI images by fusion of Deep CNNs in 2D+ ϵ projections (2017)
-> [`paper`](https://sci-hub.tw/10.1145/3095713.3095749)
+> [`paper`](https://hal.archives-ouvertes.fr/hal-01674952)
 ### **Dataset**
 > - MRI
 ### **Training**
@@ -15,7 +15,7 @@
 #
 #
 ## Classification of sMRI for AD Diagnosis with Convolutional Neuronal Networks: A Pilot 2D+ ϵ Study on ADNI (2017)
-> [`paper`](https://sci-hub.tw/10.1007/978-3-319-51811-4_56)
+> [`paper`](https://dl.acm.org/citation.cfm?id=3079010)
 ### **Dataset**
 > - MRI
 ### **Training**
@@ -35,7 +35,7 @@
 #
 #
 ## Classification of Alzheimer disease on imaging modalities with deep CNNs using cross-modal transfer learning (2018)
-> [`paper`](https://sci-hub.tw/10.1109/cbms.2018.00067)
+> [`paper`](https://ieeexplore.ieee.org/document/8417262/)
 ### **Dataset**
 > - MRI, MD-DTI
 ### **Training**
@@ -52,6 +52,6 @@
 #
 #
 ## Convolutional neural networks-Based MRI image analysis for the Alzheimer’s disease prediction from mild cognitive impairment (2018)
-> [`paper`](https://sci-hub.tw/10.3389/fnins.2018.00777)
+> [`paper`](https://www.frontiersin.org/articles/10.3389/fnins.2018.00777/full)
 > - -
 ---
