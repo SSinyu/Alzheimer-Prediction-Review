@@ -1,23 +1,5 @@
 
-## 01. CNNs based multi-modality classification for AD diagnosis (2017)
-https://sci-hub.tw/10.1109/cisp-bmei.2017.8302281
-### **Dataset**
-> - MRI, PET
-### **Training**
-> - 2 class classification (AD/CN)
-> - Extract feature with 3D ConvNet
-> - Combined feature vector of MRI and PET
-> <img src="https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/img/3D_patch_level_CNN/01_model1.PNG" width="450"/>  
-> <img src="https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/img/3D_patch_level_CNN/01_model2.PNG" width="600"/>
-### **Result**  
-> - Comparison of different method
-> <img src="https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/img/3D_patch_level_CNN/01_result1.PNG"/>  
-> <img src="https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/img/3D_patch_level_CNN/01_result2.PNG"/>
----
-#
-#
-#
-## 02. Multi-modality cascaded convolutional neural networks for Alzheimer’s disease diagnosis (2018)
+## Multi-modality cascaded convolutional neural networks for Alzheimer’s disease diagnosis (2018)
 https://sci-hub.tw/10.1007/s12021-018-9370-4
 ### **Dataset**
 > - MRI, PET
@@ -35,7 +17,7 @@ https://sci-hub.tw/10.1007/s12021-018-9370-4
 #
 #
 #
-## 03. Alzheimer's disease diagnosis based on multiple cluster dense convolutional networks (2018)
+## Alzheimer's disease diagnosis based on multiple cluster dense convolutional networks (2018)
 https://sci-hub.tw/10.1016/j.compmedimag.2018.09.009
 ### **Dataset**
 > - MRI
@@ -55,7 +37,7 @@ https://sci-hub.tw/10.1016/j.compmedimag.2018.09.009
 #
 #
 #
-## 04. Hierarchical Fully Convolutional Network for Joint Atrophy Localization and Alzheimer's Disease Diagnosis using Structural MRI (2018)
+## Hierarchical Fully Convolutional Network for Joint Atrophy Localization and Alzheimer's Disease Diagnosis using Structural MRI (2018)
 https://sci-hub.tw/10.1109/tpami.2018.2889096
 ### **Dataset**
 > - MRI
@@ -80,7 +62,7 @@ https://sci-hub.tw/10.1109/tpami.2018.2889096
 #
 #
 #
-## 05. Anatomical landmark based deep feature representation for MR images in brain disease diagnosis (2018)
+## Anatomical landmark based deep feature representation for MR images in brain disease diagnosis (2018)
 https://sci-hub.tw/10.1109/jbhi.2018.2791863
 ### **Dataset**
 > - MRI
