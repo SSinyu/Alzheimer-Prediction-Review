@@ -1,4 +1,20 @@
-
+## Classification of MR brain images by combination of multi-CNNs for AD diagnosis. (2017)
+https://sci-hub.tw/10.1117/12.2281808
+### **Dataset**
+> - MRI
+### **Training**
+> - 2 class classification (AD/CN)
+> - Extract multiple local patches
+> - Pre-training each CNN
+> - Combine each CNN with Fully Connected(FC) layer and fine-tuning
+> <img src="https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/img/3D_patch_level_CNN/00_model1.PNG" width="700"/>  
+### **Result**
+> - Comparison of different method
+> <img src="https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/img/3D_patch_level_CNN/00_result1.PNG" width="500"/>
+---
+#
+#
+#
 ## Multi-modality cascaded convolutional neural networks for Alzheimer’s disease diagnosis (2018)
 https://sci-hub.tw/10.1007/s12021-018-9370-4
 ### **Dataset**
