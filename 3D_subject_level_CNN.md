@@ -73,10 +73,10 @@
 > - 2 class classification (AD/CN, MCI/CN, AD/MCI)
 > - Learning MRI features by dilated conv, residual/dense connections
 > - Combine learned MRI features and NM features
-> - <img src="https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/img/3D_subject_level_CNN/Senanayake2018_model1.PNG" width="700"/>
+> <img src="https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/img/3D_subject_level_CNN/Senanayake2018_model1.PNG" width="300"/>
 ### **Result**
 > - Comparison of fusion/non-fusion
-> <img src="https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/img/3D_subject_level_CNN/Senanayake2018_result1.PNG" width="500"/>
+> <img src="https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/img/3D_subject_level_CNN/Senanayake2018_result1.PNG" width="400"/>
 #
 #
 #
