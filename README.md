@@ -2,7 +2,7 @@
 
 ## Reference
 Wen, J., Thibeau-Sutre, E., Samper-Gonzalez, J., Routier, A., Bottani, S., Durrleman, S., ... & Colliot, O. (2019).  
-**Convolutional Neural Networks for Classification of Alzheimer's Disease: Overview and Reproducible Evaluation**.
+**Convolutional Neural Networks for Classification of Alzheimer's Disease: Overview and Reproducible Evaluation**.  
 arXiv preprint arXiv:1904.07773. [`paper`](https://arxiv.org/abs/1904.07773)
 <br/>
 <br/>
