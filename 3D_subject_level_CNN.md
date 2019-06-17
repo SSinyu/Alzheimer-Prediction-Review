@@ -19,7 +19,18 @@
 #
 ## Residual and plain convolutional neural networks for 3D brain MRI classification (2017)
 > [`paper`](https://arxiv.org/abs/1701.06643)
-> - -
+### **Dataset**
+> - MRI
+### **Training**
+> - 2 class classification (AD/CN, AD/EMCI, AD/LMCI, LMCI/EMCI, LMCI/CN, EMCI/CN)
+> - Use common ConvNet, ResNet
+> <img src="https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/img/3D_subject_level_CNN/Korolev2017_model1.PNG"> 
+### **Result**
+> - Comparison of different target
+> <img src="https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/img/3D_subject_level_CNN/Korolev2017_result1.PNG"/>
+
+> - Visualization of importance areas based on [`paper`](https://cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
+> <img src="https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/img/3D_subject_level_CNN/Korolev2017_result2.PNG"/>
 ---
 #
 #
@@ -45,7 +56,20 @@
 #
 ## Multimodal learning using convolution neural network and Sparse Autoencoder (2017)
 > [`paper`](https://ieeexplore.ieee.org/document/7881683)
-> - -
+### **Dataset**
+> - MRI, PET
+### **Training**
+> - 2 class classification (AD/CN, MCI/CN)
+> - Extract 3D patches from MRI, PET
+> - Pre-training each input feauture by sparse autoencoder
+> - Learn by parameter shared CNN
+> <img src="https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/img/3D_subject_level_CNN/Vu2017_model1.PNG"> 
+### **Result**
+> - Comparison of proposed strategies 
+> <img src="https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/img/3D_subject_level_CNN/Vu2017_result1.PNG"/>
+
+> - Comparison of different methods
+> <img src="https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/img/3D_subject_level_CNN/Vu2017_result2.PNG"/>
 ---
 #
 #
