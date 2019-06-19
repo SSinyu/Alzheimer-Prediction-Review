@@ -53,5 +53,22 @@
 #
 ## Convolutional neural networks-Based MRI image analysis for the Alzheimer’s disease prediction from mild cognitive impairment (2018)
 > [`paper`](https://www.frontiersin.org/articles/10.3389/fnins.2018.00777/full)
-> - -
+### **Dataset**
+> - MRI
+### **Training**
+> - 2 class classification (AD/CN)
+> - Extract 2.5D patches for CNN training
+> - Obtain the CNN-based and FreeSurfer-based image features
+> - Select each features by PCA and Lasso
+> - Combine two features and feed to [`extreme learning machine`](https://ieeexplore.ieee.org/document/6035797) classifier
+> <img src="https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/img/ROI_based_CNN/Lin2018_model1.PNG" width="600"/>
+
+> - used CNN
+> <img src="https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/img/ROI_based_CNN/Lin2018_model2.PNG" width="700"/>
+### **Result**
+> - Comparison of different feature used 
+> <img src="https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/img/ROI_based_CNN/Lin2018_result1.PNG" width="800"/>
+
+> - Comparison of extreme learning machine with other method
+> <img src="https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/img/ROI_based_CNN/Lin2018_result2.PNG" width="800"/>
 ---
