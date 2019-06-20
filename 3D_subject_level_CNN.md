@@ -106,14 +106,38 @@
 #
 ## An efficient 3D deep convolutional network for Alzheimer's disease diagnosis using MR images (2018)
 > [`paper`](https://ieeexplore.ieee.org/document/8363543/)
-> - -
+### **Dataset**
+> - MRI
+### **Training**
+> - 2 class classification (AD/CN)
+> - Learning features by 3DConvNet
+> <img src="https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/img/3D_subject_level_CNN/Backstrom2018_model1.PNG" width="400"/>
+
+> - Network details
+> <img src="https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/img/3D_subject_level_CNN/Backstrom2018_model2.PNG" width="600"/>
+### **Result**
+> - Comparison of different method
+> <img src="https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/img/3D_subject_level_CNN/Backstrom2018_result1.PNG" width="600"/>
 ---
 #
 #
 #
 ## Alzheimer’s disease diagnostics by a 3D deeply supervised adaptable convolutional network (2018)
 > [`paper`](https://www.ncbi.nlm.nih.gov/pubmed/28930562)
-> - -
+### **Dataset**
+> - MRI
+### **Training**
+> - 2,3 class classification (AD/CN, AD/MCI, MCI/CN, AD/MCI/CN)
+> - Extract feature by 3D Conv autoencoder
+> - Add fully-connected layer and fine-tuning
+> <img src="https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/img/3D_subject_level_CNN/Hosseini2018_model2.PNG" width="750"/>
+
+> - 3D Conv autoencoder
+> <img src="https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/img/3D_subject_level_CNN/Hosseini2018_model1.PNG" width="600"/>
+### **Result**
+> - Performance of the proposed classifier
+> - PPV=TP/TP+FP, NPV=TN/TN+FN, BAC=0.5*(SEN+SPE)
+> <img src="https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/img/3D_subject_level_CNN/Hosseini2018_result1.PNG" width="800"/>
 ---
 #
 #
