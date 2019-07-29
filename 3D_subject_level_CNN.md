@@ -144,19 +144,38 @@
 #
 ## Non-white matter tissue extraction and deep convolutional neural network for Alzheimer’s disease detection (2018)
 > [`paper`](https://link.springer.com/article/10.1007/s00500-018-3421-5)
-> - -
+### **Dataset**
+> - MRI, PET
 ---
 #
 #
 #
 ## Automated classification of Alzheimer's disease and mild cognitive impairment using a single MRI and deep neural networks (2019)
 > [`paper`](https://www.sciencedirect.com/science/article/pii/S2213158218303930?via%3Dihub)
-> - -
+### **Dataset**
+> - T1-weighted MRI
+### **Training**
+> - 2 class classification (AD/CN, c-MCI/CN, s-MCI/CN, AD/c-MCI, AD/s-MCI, c-MCI/s-MCI)
+> - 12 repeated 3Dconv block
+> - Transfer learning (AD/CN classification CNN -> other CNNs)
+> <img src="https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/img/3D_subject_level_CNN/Basaia2019_model1.PNG" width="650"/>
+### **Result**
+> - Performance of the proposed classifier
+> <img src="https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/img/3D_subject_level_CNN/Basaia2019_result1.PNG" width="650"/>
 ---
 #
 #
 #
 ## Ensemble of 3D densely connected convolutional network for diagnosis of mild cognitive impairment and Alzheimer’s disease (2019)
 > [`paper`](https://www.sciencedirect.com/science/article/pii/S0925231218314723)
-> - -
+### **Dataset**
+> - T1-weighted MRI
+### **Training**
+> - 3 class classification (AD/MCI/CN)
+> - Extract features using 3D Conv Dense block
+> - Ensemble of output probabilities of softmax layers
+> <img src="https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/img/3D_subject_level_CNN/Wang2019_model1.PNG" width="750"/>
+### **Result**
+> - Comparison of different ensemble methods
+> <img src="https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/img/3D_subject_level_CNN/Wang2019_result1.PNG" width="650"/>
 ---
