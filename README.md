@@ -44,7 +44,7 @@ arXiv preprint arXiv:1904.07773. [`paper`](https://arxiv.org/abs/1904.07773)
 |paper|AD vs CN|sMCI vs pMCI|MCI vs CN|AD vs MCI|Multi-class|Approach|Data Leakage|
 |:----|:----:|:---:|:----:|:----:|:---:|:----|:----|
 |[Aderghal et al., 2017a](https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/ROI_based_CNN.md#01-fuseme-classification-of-smri-images-by-fusion-of-deep-cnns-in-2d-%CF%B5-projections-2017)|0.91|-|0.66|0.70|-|ROI-based|Unclear|
-|Basaia et al., 2019|0.99|0.75|-|-|-|3D subject-level|Unclear|
+|[Basaia et al., 2019](https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/3D_subject_level_CNN.md#automated-classification-of-alzheimers-disease-and-mild-cognitive-impairment-using-a-single-mri-and-deep-neural-networks-2019)|0.99|0.75|-|-|-|3D subject-level|Unclear|
 |[Hon and Khan, 2017](https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/2D_slice_level_CNN.md#03-towards-alzheimers-disease-classification-through-transfer-learning-2017)|0.96|-|-|-|-|2D slice-level|Unclear|
 |Hosseini Asl et al., 2018|0.99|-|0.94|1.00|AD vs MCI vs CN<br/>0.95|3D subject-level|Unclear|
 |[Islam and Zhang, 2017](https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/2D_slice_level_CNN.md#05-a-novel-deep-learning-based-multi-class-classification-method-for-alzheimers-disease-detection-using-brain-mri-data-2017)|-|-|-|-|CN vs mild vs moderate vs severe<br/>0.74|2D slice-level|Unclear|
@@ -58,5 +58,5 @@ arXiv preprint arXiv:1904.07773. [`paper`](https://arxiv.org/abs/1904.07773)
 |Gunawardena et al., 2017|-|-|-|-|AD vs MCI vs CN<br/>0.96|3D subject-level|clear|
 |Vu et al., 2018|0.86|-|0.86|0.77|AD vs MCI vs CN<br/>0.80|3D subject-level|clear|
 |[Wang et al., 2017](https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/2D_slice_level_CNN.md#06-automatic-recognition-of-mild-cognitive-impairment-from-mri-images-using-expedited-convolutional-neural-networks-2017)|-|-|0.91|-|-|2D slice-level|clear|
-|Wang et al., 2019|0.99|-|0.98|0.94|AD vs MCI vs CN<br/>0.97|3D subject-level|clear|
+|[Wang et al., 2019](https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/3D_subject_level_CNN.md#ensemble-of-3d-densely-connected-convolutional-network-for-diagnosis-of-mild-cognitive-impairment-and-alzheimers-disease-2019)|0.99|-|0.98|0.94|AD vs MCI vs CN<br/>0.97|3D subject-level|clear|
 |[Wu et al., 2018](https://github.com/SSinyu/Alzheimer-Prediction-Review/blob/master/2D_slice_level_CNN.md#11-discrimination-and-conversion-prediction-of-mild-cognitive-impairment-using-convolutional-neural-networks-2018)|-|-|-|-|sMCI vs pMCI vs CN<br/>0.95|2D slice-level|clear|
